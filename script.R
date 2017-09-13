@@ -1,7 +1,7 @@
 ##########################################################################
 ### Step 1: Read in the data and factor variables
 ##########################################################################
-lactate<-read.csv("~/Desktop/Test/Test/lactate.csv", stringsAsFactors = FALSE)
+lactate<-read.csv("lactate.csv", stringsAsFactors = FALSE)
 
 ##########################################################################
 ### Step 2: Factoring Variables
