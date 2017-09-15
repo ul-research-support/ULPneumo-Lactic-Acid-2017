@@ -1,8 +1,6 @@
+# University of Louisville Pneumonia Study <br>Lactic Acid Dataset
 
-### University of Louisville Pneumonia Study
-Lactic Acid Dataset
 
----
 
 Vagrant box that installs R and analysis scripts for CAPO Lactic Acid study
 
