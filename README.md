@@ -1,6 +1,5 @@
-# Vagrant-R
-
-[![GitHub (pre-)release](https://img.shields.io/github/release/qubyte/rubidium/all.svg)]()
+## University of Louisville Pneumonia Study 
+### Lactic Acid Dataset
 
 Vagrant box that installs R and analysis scripts for CAPO Lactic Acid study
 
