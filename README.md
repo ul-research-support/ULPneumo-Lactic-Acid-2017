@@ -1,7 +1,9 @@
 
 ### University of Louisville Pneumonia Study
 Lactic Acid Dataset
-* * *
+
+---
+
 Vagrant box that installs R and analysis scripts for CAPO Lactic Acid study
 
 *Note: To run this Vagrant box, you will need [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)*
