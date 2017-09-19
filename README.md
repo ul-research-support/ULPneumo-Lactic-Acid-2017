@@ -1,8 +1,10 @@
 # University of Louisville Pneumonia Study: <br>Lactic Acid Dataset
 
 
+[![DOI](https://zenodo.org/badge/103301984.svg)](https://zenodo.org/badge/latestdoi/103301984)
 
-Vagrant box that installs R and analysis scripts for CAPO Lactic Acid study
+
+Vagrant box that installs R and analysis scripts for ULPneumo Lactic Acid Dataset
 
 *Note: To run this Vagrant box, you will need [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)*
 
